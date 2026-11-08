@@ -1,0 +1,6 @@
+{
+  "name": "DRAWOLT Industrial Tools | ابزارآلات صنعتی دراوولت",
+  "description": "پرتال رسمی و بین‌المللی ابزارآلات صنعتی و قدرتی برند دراوولت (DRAWOLT) با پشتیبانی ۴ زبانه، دستیار هوش مصنوعی راماکس و سیستم خدمات پس از فروش",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

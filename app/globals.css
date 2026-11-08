@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800;900&family=Rajdhani:wght@500;600;700&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Vazirmatn', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Daylight mode custom surfaces */
+.light {
+  color-scheme: light;
+}
+.light body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+.light header {
+  background-color: rgba(255, 255, 255, 0.85) !important;
+  border-color: #e2e8f0 !important;
+}
+.light nav a {
+  color: #334155 !important;
+}
+.light nav a:hover {
+  color: #7fa60f !important;
+}
+.light .bg-slate-900,
+.light .bg-slate-950 {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #e2e8f0 !important;
+}
+.light .text-white {
+  color: #0f172a !important;
+}
+.light .text-slate-200,
+.light .text-slate-300 {
+  color: #334155 !important;
+}
+.light .text-slate-400 {
+  color: #64748b !important;
+}
+.light .border-slate-800,
+.light .border-slate-700 {
+  border-color: #e2e8f0 !important;
+}
